@@ -3,19 +3,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kishanbgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishanbgajera" height="30" width="40" /></a>
-  
 <a href="https://instagram.com/kishanbgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishanbgajera" height="30" width="40" /></a>
-  
 <a href="https://linkedin.com/in/kishanbgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishanbgajera" height="30" width="40" /></a>
-  
 <a href="https://stackoverflow.com/users/10886580/kishanbgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kishanbgajera" height="30" width="40" /></a>
-
 <a href="https://codepen.io/kishanbgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kishanbgajera" height="30" width="40" /></a>
-
 <a href="https://dev.to/kishanbgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kishanbgajera" height="30" width="40" /></a>
-
 <a href="https://medium.com/@kishanbgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kishanbgajera" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/kishanbgajera/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kishanbgajera/profile" height="30" width="40" /></a>
 
 </p>
