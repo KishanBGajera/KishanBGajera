@@ -10,7 +10,7 @@
 <a href="https://dev.to/kishanbgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kishanbgajera" height="30" width="40" /></a>
 <a href="https://medium.com/@kishanbgajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kishanbgajera" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kishanbgajera/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kishanbgajera/profile" height="30" width="40" /></a>
-
+<a href="https://www.sololearn.com/profile/11055690" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="KishanBGajera" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
