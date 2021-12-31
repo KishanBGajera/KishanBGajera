@@ -1,4 +1,4 @@
-<h3 align="center">YET LEARNING ~ from India</h3>
+<h3>Hi, I'm Kishan B. Gajera.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
