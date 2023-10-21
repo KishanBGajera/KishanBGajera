@@ -2,8 +2,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kishan-b-gajera" target="blank"><img align="center" src="linked-logo.png" alt="kishan-b-gajera" height="30" width="40" /></a>
-<a href="https://twitter.com/kishanbgajera" target="blank"><img align="center" src="twitter-logo.png" alt="kishanbgajera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kishan-b-gajera" target="blank"><img align="center" src="linkedin-logo.png" alt="kishan-b-gajera" height="40" width="40" /></a>
+<a href="https://twitter.com/kishanbgajera" target="blank"><img align="center" src="twitter-logo.png" alt="kishanbgajera" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
