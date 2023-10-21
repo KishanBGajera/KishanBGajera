@@ -7,7 +7,7 @@
 </p>
 
 <style>
-  .logo{
+  .logo:hover{
     filter: invert(10);
   }
 </style>
