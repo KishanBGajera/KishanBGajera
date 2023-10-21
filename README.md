@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kishan-b-gajera" target="blank"><img align="center" src="images/linkedin-logo.png" alt="kishan-b-gajera" height="40" width="40" class="logo" /></a>
 <a href="https://x.com/kishanbgajera" target="blank"><img align="center" src="images/X-logo.png" alt="kishanbgajera" height="35" width="35" class="logo" /></a>
-<a href="https://instagram.com/kishaning" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="kishaning" height="35" width="35" class="logo" /></a>
+<a href="https://instagram.com/kishaning" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="kishaning" height="40" width="40" class="logo" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
