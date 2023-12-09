@@ -54,4 +54,4 @@ I'm always down for deep dives into code convos, tech tea, or arguing about tabs
 Thanks for scrolling through my README, fam!
 Let's make some cool project together, `byte` by `byte`. ✨🚀
 
-Classic: `0x68747470733A2F2F796F7574752E62652F6451773477395767586351`
+Locate me at classic `0x68747470733A2F2F796F7574752E62652F6451773477395767586351`
