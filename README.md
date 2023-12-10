@@ -2,10 +2,10 @@
 
 I'm Kishan B. Gajera (or just KBG), a code wrangler from Pixel Paradise of Nerd Nook. Welcome to my coding crib! 🚀
 
-![Data Driven](https://img.shields.io/badge/Data-Driven-blue)
-![Math Nerd](https://img.shields.io/badge/Math-Nerd-lightblue)
-![Grammar Nazi](https://img.shields.io/badge/Grammar-Nazi-darkblue)
-![Actually ☝🤓](https://img.shields.io/badge/actually-☝🤓-darkviolet)
+![data driven](https://img.shields.io/badge/data-driven-blue)
+![math nerd](https://img.shields.io/badge/math-nerd-lightblue)
+![grammar n@zi](https://img.shields.io/badge/grammar-n@zi-darkblue)
+![actually ☝🤓](https://img.shields.io/badge/actually-☝%20🤓-darkviolet)
 
 ## 🤝 Social Stats
 
