@@ -26,7 +26,7 @@ I'm vibing with:
 
 1. [Conway's Game of Life](https://kishanbgajera.github.io/Game-of-Life/) - Bringing some pixels to life (with Math?) (made with some HTML, CSS, and more of JS)
 2. [NeetCode.io/roadmap](https://github.com/KishanBGajera/neetcode.io-roadmap) - 'Cause let's be real, we all need some DSA in our lives. Solved LeetCode Problems (with Python and, *if lucky*, some C) following [neetcode.io/roadmap](https://neetcode.io/roadmap) 💪
-3. [Portfolio](kishanbgajera.github.io/Portfolio) - Not so Turing Complete yet! Status: Under construction. 🚧👷‍♂️
+3. [Portfolio](https://kishanbgajera.github.io/Portfolio) - Not so Turing Complete yet! Status: Under construction. 🚧👷‍♂️
 
 Feel free to peep them! 👀
 
