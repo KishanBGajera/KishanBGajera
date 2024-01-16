@@ -47,11 +47,6 @@ Feel free to peep them! 👀
 
 I'm always down for deep dives into code convos, tech tea, or arguing about tabs vs spaces. Shoot me a DM if you wanna chat tech! 🤓💬
 
-## 🎉 Fun Tech Facts
-
-- **Current Coding Soundtrack:** Lo-fi beats and nerdy podcasts 🎧🤓
-- **Hobbies Outside of Coding:** Reading, Watchin' Anime, and scrolling, 'cause why not?
-
 Thanks for scrolling through my README, fam!
 Let's make some cool project together, `byte` by `byte`. ✨🚀
 
