@@ -1,53 +1,40 @@
-# Yo, Code Squaad! 👾
+## About Me
 
-I'm Kishan B. Gajera (or just KBG), a code wrangler from Pixel Paradise of Nerd Nook. Welcome to my coding crib! 🚀
+👋 Hi there! I'm Kishan B. Gajera. I enjoy exploring new technologies.
 
-![data driven](https://img.shields.io/badge/data-driven-blue)
-![math nerd](https://img.shields.io/badge/math-nerd-lightblue)
-![grammar n@zi](https://img.shields.io/badge/grammar-n@zi-darkblue)
-![actually ☝🤓](https://img.shields.io/badge/actually-☝%20🤓-darkviolet)
+### 🛠️ Technologies & Tools
+#### Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 🤝 Social Stats
+#### Frameworks & Libraries:
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kishanbgajera&color=blueviolet)
-[![GitHub homies](https://img.shields.io/github/followers/kishanbgajera?label=Buds&style=social)](https://github.com/kishanbgajera)
-[![Twitter Squad](https://img.shields.io/twitter/follow/your-twitter-handle?label=just+"X"&style=social)](https://twitter.com/kishanbgajera)
+#### Databases:
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 💻 Tech Stack & Tools
+#### Tools & Platforms:
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- **Languages:** Python, C, JavaScript, and the occasional emoji in my code 🤖
-- **Modules & Libraries:** Numpy, Pandas, Matlab, AND Jupyter 🚀✨
-- **Tools & Platforms:** VS Code, Git, Kaggle, and GitHub
-(with some tea ☕)
+### 📈 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanbgajera&show_icons=true&theme=radical)
 
-## 🚀 Currently Hacking On
+### 👨‍💻 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/kishanbgajera/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kishanbgajera)
 
-I'm vibing with:
-
-- [Conway's Game of Life](https://kishanbgajera.github.io/Game-of-Life/) - Bringing some pixels to life (with Math?) (made with some HTML, CSS, and more of JS)
-- [366 Days of DSA](https://github.com/KishanBGajera/2024-366-Days-Of-DSA) - 366 Days (2024) of DSA, their applications, and well, occassional LeetCode problems.
-- [NeetCode.io/roadmap](https://github.com/KishanBGajera/neetcode.io-roadmap) - 'Cause let's be real, we all need some DSA in our lives. Solved LeetCode Problems (with Python and, *if lucky*, some C) following [neetcode.io/roadmap](https://neetcode.io/roadmap) 💪
-- [Portfolio](https://kishanbgajera.github.io/Portfolio) - Not so Turing Complete yet! Status: Under construction. 🚧👷‍♂️
-
-Feel free to peep them! 👀
-
-## 📈 GitHub Stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanbgajera&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/kishanbgajera)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanbgajera&layout=compact&theme=radical)](https://github.com/kishanbgajera) -->
-
-## 📫 Hit Me Up
-
-- **LinkedIn:** [Let's CONNECT on LinkedIn](https://www.linkedin.com/in/kishan-b-gajera)
-- **Twitter:** [Slide into my DMs](https://www.twitter.com/kishanbgajera)
-- **Portfolio:** [Check my digital playground](kishanbgajera.github.io/Portfolio)
-
-## 💬 Let's Dive into the Code
-
-I'm always down for deep dives into code convos, tech tea, or arguing about tabs vs spaces. Shoot me a DM if you wanna chat tech! 🤓💬
-
-Thanks for scrolling through my README, fam!
-Let's make some cool project together, `byte` by `byte`. ✨🚀
-
-Locate me at classic `0x68747470733A2F2F796F7574752E62652F6451773477395767586351`
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishanbgajera)
+[![X (Twitter)](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kishanbgajera)
+---
+Feel free to reach out to me on LinkedIn or X !!!
